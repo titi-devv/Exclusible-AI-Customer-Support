@@ -1,6 +1,6 @@
-# 🧑‍💻 Text-Based Conversational AI Chatbot
+# 🧑‍💻 AI Customer Support Chatbot
 
-This repository contains code for a text-based conversational AI chatbot. The chatbot is designed to answer user questions based on a set of training data, web scraping, and predefined templates. It utilizes language models and embeddings to provide informative responses.
+This repository contains code for an AI Customer Support Chatbot. The chatbot is designed to answer user questions based on a set of training data, web scraping, and predefined templates. It utilizes language models and embeddings to provide informative responses.
 
 ## Table of Contents
 
