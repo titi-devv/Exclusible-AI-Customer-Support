@@ -1,4 +1,4 @@
-# Text-Based Conversational AI Chatbot
+# 🧑‍💻 Text-Based Conversational AI Chatbot
 
 This repository contains code for a text-based conversational AI chatbot. The chatbot is designed to answer user questions based on a set of training data, web scraping, and predefined templates. It utilizes language models and embeddings to provide informative responses.
 
@@ -58,7 +58,7 @@ Make sure to provide valid URLs that contain relevant information for your chatb
 
 ## Creating Language Model (LLM)
 
-The Language Model (LLM) is at the core of the chatbot and is responsible for generating responses. It utilizes the AutoGPTQ model, specific configurations, and embeddings to provide answers to user questions.
+The Language Model (LLM) is at the core of the chatbot and is responsible for generating responses.
 
 The LLM is created and configured in the provided code. It takes user input and generates responses based on the training data, web scraping, and predefined templates.
 
@@ -70,7 +70,7 @@ Text chunks are segments of text, and embeddings represent the text's features. 
 
 ## ChatBot
 
-The ChatBot class handles user interactions, response generation, and conversation management. It leverages the LLM model, embeddings, and training data to answer user questions effectively.
+The ChatBot class handles user interactions, response generation, and conversation management. 
 
 You can interact with the chatbot by providing input in a conversational manner, and it will generate responses based on its knowledge and training data.
 
